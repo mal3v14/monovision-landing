@@ -25,17 +25,6 @@
     }
 }
 
-/* Альтернативный способ */
-/* @property --light-color {
-    syntax: "<color>";
-    inherits: false;
-    initial-value: #F5F5F7;
-}
-@property --container-padding-inline {
-    syntax: "<percentage>";
-    inherits: false;
-    initial-value: 13%;
-} */
 
 
 html {

@@ -9,7 +9,9 @@ This project was created as part of frontend training, based on a static design 
 
 ## 📸 Preview
 
-![Monovision Landing Screenshot](./preview.png)
+![Monovision Landing Screenshot](./preview-desc-1.png)
+![Monovision Landing Screenshot](./preview-desc-2.png)
+
 
 ---
 
